@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Sou uma profissional com experiência em atendimento e processos administrativos, apaixonada por tecnologia e atualmente focada na transição e desenvolvimento da minha carreira na área de TI. cursei Desenvolvimento de Sistemas na Etec José Miguel Soares, onde adquiri bases sólidas em lógica, estruturação de sistemas e metodologias de desenvolvimento. Busco oportunidades operacionais ou de análise onde possa aplicar minha atenção aos detalhes, facilidade de aprendizado e dedicação para resolver problemas reais por meio do código.
+
+Durante a minha formação técnica e estudos autônomos, desenvolvi competências em tecnologias essenciais para o mercado. No desenvolvimento front-end, tenho domínio na criação e estilização de páginas web utilizando HTML, CSS e JavaScript. Para o desenvolvimento back-end e gerenciamento de dados, possuo conhecimento na linguagem Python e na manipulação de bancos de dados relacionais com o SQL Server. Além disso, tenho familiaridade com a administração de ambientes operacionais tanto em ecossistemas Windows quanto Linux, além de compreender o funcionamento e configuração de Servidores Web.
+
+Estou sempre em busca de conectar o universo tecnológico com a eficiência operacional e a organização estruturada. Para conhecer mais sobre a minha trajetória profissional, conferir minhas experiências anteriores ou iniciar uma conversa sobre projetos e oportunidades de colaboração, sinta-se à vontade para visitar o meu <a href="https://www.linkedin.com/in/anna-caroline-nascimento-silva-6674b1362/">perfil no LinkedIn</a>
